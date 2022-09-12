@@ -1,0 +1,16 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+.ml-auto  {
+  left: auto !important;
+  right: 0px;
+}
+
+body {
+  background: #22262a;
+  margin: 0;
+}
+
